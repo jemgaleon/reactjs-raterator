@@ -1,0 +1,17 @@
+.buttonPanel {
+    padding: 0.5rem;
+    background-color: #f0f0f9;
+}
+
+button {
+    color: #303030;
+    padding: 0.20rem 1rem;
+}
+
+.leftButton {
+    display: inline-block;
+}
+
+.rightButton {
+    float: right;
+}

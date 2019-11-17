@@ -1,0 +1,8 @@
+button, span {
+    font-family: 0.7rem;
+    font-variant: small-caps;
+}
+
+span {
+    margin-left: 0.5rem;
+}
