@@ -43,7 +43,7 @@ export class Rating extends Component {
                     <h2>{instructorName}</h2>
                     <h3>{schoolName}</h3>
                 </div>
-                <div className="stars">
+                <div className="stars flexContainer">
                     {stars}
                 </div>
             </div>
